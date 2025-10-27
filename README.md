@@ -33,7 +33,7 @@ After setting up the environment variables, you can run the tests using the foll
 
 ```bash
 npm install
-````
+```
 
 ## 2. Run All Tests
 
@@ -130,3 +130,4 @@ After running tests, open the report:
 ```bash
 npx playwright show-report
 ```
+````
